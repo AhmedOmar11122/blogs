@@ -14,32 +14,32 @@ include 'partials/header.php';
         <aside>
             <ul>
                 <li>
-                    <a href="add-post.html"><i class="uil uil-pen"></i>
+                    <a href="../admin/add-post.php"><i class="uil uil-pen"></i>
                         <h5>Add Post</h5>
                     </a>
                 </li>
                 <li>
-                    <a href="dashboard.html"><i class="uil uil-postcard"></i>
+                    <a href="../admin/dashboard.php"><i class="uil uil-postcard"></i>
                         <h5>Manage Posts</h5>
                     </a>
                 </li>
                 <li>
-                    <a href="add-user.html"><i class="uil uil-user-plus"></i>
+                    <a href="../admin/add-user.php"><i class="uil uil-user-plus"></i>
                         <h5>Add User</h5>
                     </a>
                 </li>
                 <li>
-                    <a href="manage-users.html" class="active"><i class="uil uil-users-alt"></i>
+                    <a href="../admin/manage-users.php" class="active"><i class="uil uil-users-alt"></i>
                         <h5>Manage User</h5>
                     </a>
                 </li>
                 <li>
-                    <a href="add-category.html"><i class="uil uil-edit"></i>
+                    <a href="../admin/add-category.php"><i class="uil uil-edit"></i>
                         <h5>Add Category</h5>
                     </a>
                 </li>
                 <li>
-                    <a href="manage-categories.html"><i class="uil uil-list-ul"></i>
+                    <a href="../admin/manage-categories.php"><i class="uil uil-list-ul"></i>
                         <h5>Manage Categories</h5>
                     </a>
                 </li>
@@ -61,21 +61,21 @@ include 'partials/header.php';
                     <tr>
                         <td>Ernest Achiever</td>
                         <td>achiever</td>
-                        <td><a href="edit-user.html" class="btn sm">Edit</a></td>
+                        <td><a href="edit-user.php" class="btn sm">Edit</a></td>
                         <td><a href="delete-category.html" class="btn sm danger">Delete</a></td>
                         <td>Yes</td>
                     </tr>
                     <tr>
                         <td>Daniel Vinyo</td>
                         <td>daniel</td>
-                        <td><a href="edit-user.html" class="btn sm">Edit</a></td>
+                        <td><a href="edit-user.php" class="btn sm">Edit</a></td>
                         <td><a href="delete-category.html" class="btn sm danger">Delete</a></td>
                         <td>Yes</td>
                     </tr>
                     <tr>
                         <td>Jane Doe</td>
                         <td>jane</td>
-                        <td><a href="edit-user.html" class="btn sm">Edit</a></td>
+                        <td><a href="edit-user.php" class="btn sm">Edit</a></td>
                         <td><a href="delete-category.html" class="btn sm danger">Delete</a></td>
                         <td>No</td>
                     </tr>
