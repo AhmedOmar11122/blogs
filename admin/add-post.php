@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Responsive Multipage Blog Website</title>
     <!-- CUSTOM STYLESHEET -->
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="../css/style.css">
     <!-- ICONSCOUT CDN -->
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
     <!-- GOOGLE FONT (MONTSERRAT) -->
@@ -16,7 +16,7 @@
 <body>
     <nav>
         <div class="container nav__container">
-            <a href="index.html" class="nav__logo">EGATOR</a>
+            <a href="/index.php" class="nav__logo">EGATOR</a>
             <ul class="nav__items">
                 <li><a href="blog.html">Blog</a></li>
                 <li><a href="about.html">About</a></li>
@@ -25,7 +25,7 @@
                 <!-- <li><a href="signin.html">Signin</a></li> -->
                 <li class="nav__profile">
                     <div class="avatar">
-                        <img src="./images/avatar1.jpg">
+                        <img src="../images/avatar1.jpg">
                     </div>
                     <ul>
                         <li><a href="dashboard.html">Dashboard</a></li>
