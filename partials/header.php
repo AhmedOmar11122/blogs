@@ -19,9 +19,9 @@ require 'config/database.php';
 <body>
     <nav>
         <div class="container nav__container">
-            <a href="<?= ROOT_URL ?>index.php" class="nav__logo">EGATOR</a>
+            <a href="index.php" class="nav__logo">EGATOR</a>
             <ul class="nav__items">
-                <li><a href="<?= ROOT_URL ?>blog.php">Blog</a></li>
+                <li><a href="blog.php">Blog</a></li>
                 <li><a href="<?= ROOT_URL ?>about.php">About</a></li>
                 <li><a href="<?= ROOT_URL ?>services.php">Services</a></li>
                 <li><a href="<?= ROOT_URL ?>contact.php">Contact</a></li>
